@@ -1,4 +1,8 @@
 .DS_Store
 .ipynb_checkpoints
 .vscode/settings.json
+
+doc/pandas/getting_started/
 **/__pycache__/
+
+scratch.ipynb
