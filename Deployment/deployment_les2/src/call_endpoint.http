@@ -1,0 +1,20 @@
+POST {{endpoint_url}}
+Authorization: Bearer {{access_token}}
+Content-Type: application/json
+
+{
+    "data": [
+        {
+            "LotFrontage": 65.0,
+            "GrLivArea": 1710.0,
+            "GarageArea": 548.0,
+            "Neighborhood": "CollgCr",
+            "HouseStyle": "2Story",
+            "ExterQual": "Gd",
+            "MasVnrType": "Stone",
+            "YearBuilt": 2003,
+            "YrSold": 2010,
+            "OverallQual": 7
+        }
+    ]
+}
